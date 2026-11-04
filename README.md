@@ -6,7 +6,7 @@ This software is a simple Java console application that displays a Hello World m
 
 The purpose of creating this software is to validate my ability to develop, execute, document, and publish software using GitHub and Visual Studio Code while preparing for more advanced projects throughout the course.
 
-Youtube Link: 
+Youtube Link: https://youtu.be/WtNQEA-rUIA
 
 **Development Environment**
 * IntelliJ IDEA
